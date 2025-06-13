@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /membres.html
+Disallow: /comptes-rendus.html
